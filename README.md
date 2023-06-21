@@ -4,9 +4,10 @@ Olá **Henrique**, Segue abaixo alguns dos meus projetos em Ruby On Rails, infel
 #### Código abaixo de alguns test em Ruby Rails:
 
  1. Book API -  https://github.com/marviorocha/book-api-marvio
- 2. Test Inteligov - https://github.com/marviorocha/inteligov
- 3. Test Notepad - https://github.com/marviorocha/notepad
- 4. OM30 - https://github.com/marviorocha/om30_project
+ 2. LofiMusic - https://github.com/marviorocha/lofimusic.git
+ 3. Test Inteligov - https://github.com/marviorocha/inteligov
+ 4. Test Notepad - https://github.com/marviorocha/notepad
+ 5. OM30 - https://github.com/marviorocha/om30_project
 
 #### Outros projetos interessantes que uso com ruby on rails e outras linguagem:
 
